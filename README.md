@@ -1,2 +1,2 @@
-Atividade prática de introdução ao Git e GitHub, envolvendo criação de repositório, adição e edição de arquivos, e registro de alterações usando a interface visual do site.
-
+# Meu Primeiro Projeto Web no GitHub
+Esta atividade tem como objetivo introduzir o uso do Git e do GitHub de forma prática, utilizando apenas a interface visual do site. Ao longo do exercício, será criado um repositório, adicionados arquivos, realizadas edições e registrados commits para versionar as alterações. Essa prática é essencial para compreender os conceitos básicos de controle de versão e hospedagem de projetos na nuvem.
